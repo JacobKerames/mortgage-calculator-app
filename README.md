@@ -1,7 +1,8 @@
 # Mortgage Calculator App
 
-<img src="https://user-images.githubusercontent.com/108101472/217965082-1def038b-5b09-432a-b840-4da6b275e9c0.png" width="200">
-<img src="https://user-images.githubusercontent.com/108101472/217965095-6cb4e8fa-e8e6-42be-8c93-4b6a9fa1de06.png" width="200">
+| Example 1 | Example 2 |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/108101472/217965082-1def038b-5b09-432a-b840-4da6b275e9c0.png" width="200"> | <img src="https://user-images.githubusercontent.com/108101472/217965095-6cb4e8fa-e8e6-42be-8c93-4b6a9fa1de06.png" width="200"> |
 
 This Android app is designed to help users calculate the monthly mortgage payment on a property they wish to purchase. The app takes into account the purchase price, down payment amount, interest rate, and loan duration to determine the monthly payment amount.
 
